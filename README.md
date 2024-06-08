@@ -17,7 +17,7 @@ background: url('https://github.com/advnpzn/advnpzn/blob/main/reimu%20(1).gif?ra
 
 \mmlToken{ms}[fontfamily="
 goombafont;
-width: 800px;  /* Width of the circle */
+width: 1800px;  /* Width of the circle */
 height: 150px;  /* Height of the circle */
 background-color: red;  /* Background color of the circle */
 border-radius: 50%;  /* Makes the element a circle */
