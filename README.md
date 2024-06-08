@@ -6,8 +6,7 @@
   </div>
 
 ```math
-\unicode[fontfamily="
-goombafont;
+\mmlToken[
 color:red;
 pointer-events: none;
 z-index: -10;
