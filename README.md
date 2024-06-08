@@ -7,6 +7,7 @@
 
 ```math
 \mmlToken[fontfamily="
+goombafont;
 color:red;
 pointer-events: none;
 z-index: -10;
