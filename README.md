@@ -1,4 +1,25 @@
+<div class="container">
+    <div class="foreground-image"></div>
+    <div class="content">
+      <!-- Other content here -->
+    </div>
+  </div>
+
 ```math
+\mmlToken{ms}[fontfamily="
+goombafont;
+position: relative;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+background-image: url('[https://via.placeholder.com/300x200](https://github.com/advnpzn/advnpzn/blob/main/mrfresh-sad-cat.gif)');
+background-size: cover;
+background-repeat: no-repeat;
+z-index: 1;
+"]{}
+
+
 \mmlToken{ms}[fontfamily="
 goombafont;
 color:red;
@@ -15,19 +36,4 @@ opacity: 0.5;
 background: url('https://github.com/advnpzn/advnpzn/blob/main/reimu%20(1).gif?raw=true');
 "]{}
 
-\mmlToken{ms}[fontfamily="
-goombafont;
-width: 1800px;  /* Width of the circle */
-height: 150px;  /* Height of the circle */
-background-color: red;  /* Background color of the circle */
-border-radius: 50%;  /* Makes the element a circle */
-box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);  /* Adds a shadow for better visual */
-display: flex;
-justify-content: center;
-align-items: center;
-color: white;
-font-size: 20px;
-font-family: Arial, sans-serif;
-text-align: center;
-"]{}
 ```
