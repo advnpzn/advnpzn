@@ -6,7 +6,7 @@
   </div>
 
 ```math
-\mkern{234, 343}{ms}[fontfamily="
+\mmlToken{ms}[fontfamily="
 goombafont;
 color:red;
 pointer-events: none;
