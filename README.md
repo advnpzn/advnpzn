@@ -13,7 +13,7 @@ top: 0;
 left: 0;
 width: 100%;
 height: 100%;
-background-image: url('https://github.com/advnpzn/advnpzn/blob/main/mrfresh-sad-cat.gif');
+background-image: url('https://github.com/advnpzn/advnpzn/blob/main/mrfresh-sad-cat.gif?raw=true');
 background-size: cover;
 background-repeat: no-repeat;
 z-index: 1;
