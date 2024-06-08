@@ -6,7 +6,7 @@
   </div>
 
 ```math
-\yen[fontfamily="
+\unicode[fontfamily="
 goombafont;
 color:red;
 pointer-events: none;
