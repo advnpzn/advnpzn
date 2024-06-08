@@ -6,7 +6,7 @@
   </div>
 
 ```math
-\mmlToken[
+\mmlToken[fontfamily="
 color:red;
 pointer-events: none;
 z-index: -10;
