@@ -6,7 +6,7 @@
   </div>
 
 ```math
-\mathrm{ms}[fontfamily="
+\mp{ms}[fontfamily="
 goombafont;
 color:red;
 pointer-events: none;
