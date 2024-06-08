@@ -13,5 +13,5 @@ background-size: cover;
 width: 130vw;
 opacity: 0.5;
 background: url('https://github.com/advnpzn/advnpzn/blob/main/reimu%20(1).gif?raw=true');
-]{}
+"]{}
 ```
