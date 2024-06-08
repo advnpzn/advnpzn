@@ -14,4 +14,20 @@ width: 130vw;
 opacity: 0.5;
 background: url('https://github.com/advnpzn/advnpzn/blob/main/reimu%20(1).gif?raw=true');
 "]{}
+
+\mmlToken{ms}[fontfamily="
+goombafont;
+ width: 150px;  /* Width of the circle */
+height: 150px;  /* Height of the circle */
+background-color: red;  /* Background color of the circle */
+border-radius: 50%;  /* Makes the element a circle */
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);  /* Adds a shadow for better visual */
+display: flex;
+justify-content: center;
+align-items: center;
+color: white;
+font-size: 20px;
+font-family: Arial, sans-serif;
+text-align: center;
+"]{}
 ```
